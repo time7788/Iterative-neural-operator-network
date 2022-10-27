@@ -36,6 +36,5 @@ The first-order norm of the absolute error between the predicted image and the r
 The dataset used for training network was obtained from CFD calculation results of flat-plate film cooling under different blowing ratio and hole distributions. Each CFD data was processed into two matrices. The input matrix had a dimension of 128×512×2, where the two image layers respectively represented the geometry of the jet plate and the blowing ratio.
 ## 6.	Requirement
 $ pip install -r requirements.txt
-
-
-
+## If anyone using this code for any kind of publications, kindly cite this work.
+L. Yang, Q. Wang, Y. Rao, An Iterative Neural Operator to Predict the Thermo-Fluid Information in Internal Cooling Channles, ASME Paper No. GT2022-82095, (2022).
