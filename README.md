@@ -1,8 +1,8 @@
-# Iterative-neural-operator-network
+# Iterative-neural-operator-networks
 ## 1.	Research object
-Flat-plate film cooling
+Film cooling
 ![image](https://user-images.githubusercontent.com/111938900/198201956-7546a67f-b60d-430f-87f5-f186882cbfdc.png)
-## 2.	The iterative neural operator network (INO)
+## 2.	The iterative neural operator networks (INO)
 The film cooling problem is essentially a convective heat transfer problem, which can be comprehensively described by a set of convection diffusion partial differential equations (PDE) and their boundary conditions. The physical quantities solved by these equations generally follow the laws determined by the following PDE system:
 
 ![image](https://user-images.githubusercontent.com/111938900/198202058-3835a8a9-1666-4a09-b28a-65146b55214b.png)
