@@ -1,9 +1,11 @@
 # Iterative-neural-operator-networks
-## 1.	Research object
+## 0 Function introduction
 Learning physical laws from data and regressing physical images
-
+## 1.	Research object in this study
 In this study, film cooling was taken as the research object to explain and display the code.
+
 ![image](https://user-images.githubusercontent.com/111938900/198201956-7546a67f-b60d-430f-87f5-f186882cbfdc.png)
+
 ## 2.	The iterative neural operator networks (INO)
 The film cooling problem is essentially a convective heat transfer problem, which can be comprehensively described by a set of convection diffusion partial differential equations (PDE) and their boundary conditions. The physical quantities solved by these equations generally follow the laws determined by the following PDE system:
 
